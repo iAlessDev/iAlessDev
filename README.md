@@ -1,10 +1,7 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
-
-###
+<img src="https://media.licdn.com/dms/image/v2/D4E16AQHtBR94PszGNQ/profile-displaybackgroundimage-shrink_350_1400/B4EZXLAeYBHUAc-/0/1742867655450?e=1748476800&v=beta&t=poXOr6H879nAmHu3xlxETvAZcwAhvvsg6T6e8UmtqkM">
 
 <div align="center">
+    <br>
     <a href="https://www.linkedin.com/in/ialessdev/" target="_blank">
       <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=LinkedIn&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
     </a>
@@ -22,8 +19,6 @@
 </a>
 
 </div>
-
-<h1 align="center">👋 I'm iAlessDev</h1>
 
 ###
 
@@ -59,18 +54,5 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
 </div>
 
-###
-
-<h3 align="left">🔥   My road :</h3>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iAlessDev/iAlessDev/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iAlessDev/iAlessDev/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/iAlessDev/iAlessDev/output/pacman-contribution-graph.svg">
-</picture>
-
-###
 
 
